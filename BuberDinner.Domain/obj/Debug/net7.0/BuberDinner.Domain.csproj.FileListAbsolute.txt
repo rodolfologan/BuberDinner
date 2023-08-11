@@ -1,0 +1,12 @@
+c:\Users\Rodol\source\repos\Study\c#.net\BubeerDinner\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.deps.json
+C:\Users\Rodol\source\repos\Study\c#.net\BubeerDinner\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.dll
+C:\Users\Rodol\source\repos\Study\c#.net\BubeerDinner\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.pdb
+C:\Users\Rodol\source\repos\Study\c#.net\BubeerDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.csproj.AssemblyReference.cache
+C:\Users\Rodol\source\repos\Study\c#.net\BubeerDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodol\source\repos\Study\c#.net\BubeerDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.AssemblyInfoInputs.cache
+C:\Users\Rodol\source\repos\Study\c#.net\BubeerDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.AssemblyInfo.cs
+C:\Users\Rodol\source\repos\Study\c#.net\BubeerDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rodol\source\repos\Study\c#.net\BubeerDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.dll
+C:\Users\Rodol\source\repos\Study\c#.net\BubeerDinner\BuberDinner.Domain\obj\Debug\net7.0\refint\BuberDinner.Domain.dll
+C:\Users\Rodol\source\repos\Study\c#.net\BubeerDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.pdb
+c:\Users\Rodol\source\repos\Study\c#.net\BubeerDinner\BuberDinner.Domain\obj\Debug\net7.0\ref\BuberDinner.Domain.dll
